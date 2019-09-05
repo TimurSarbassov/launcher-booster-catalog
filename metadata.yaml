@@ -5,7 +5,7 @@ missions:
   metadata:
     level: advanced
 - id: circuit-breaker
-  name: Circuit Breaker
+  name: Circuit Breaker Edited
   description: Report the failure of a service and then limit access to the failed
     service until it becomes available to handle requests
   metadata:
